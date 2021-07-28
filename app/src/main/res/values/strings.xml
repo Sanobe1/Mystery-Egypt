@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mystery Egypt</string>
+    <string name="rules">Rules</string>
+    <string name="privacypolicy">PrivacyPolicy</string>
+    <string name="exit">EXIT</string>
+    <string name="start">Start</string>
+    <string name="rulestxt">Find six pairs of identical pictures, and then you will win.</string>
+</resources>
